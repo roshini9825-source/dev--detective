@@ -1,2 +1,12 @@
-# dev--detective
-About A web application built using Javascript called Dev Detective makes it easy to explore GitHub user profiles. Enter a username to access repositories, connected social media profiles, and comprehensive coding activities with ease. Make yourself more visible online by using this easy-to-use tool.
+# Dev-Detective-Project
+Page that provides GitHub profile details for the user-name provided. Build using JS, CSS, and HTML. 
+
+Features:
+
+Give GitHub profile details for the user-name entered - by using API 
+
+Provide social media handles
+
+Switch between light and dark modes
+
+Page is responsive - using media queries
