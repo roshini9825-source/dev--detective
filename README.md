@@ -18,7 +18,7 @@ You can copy-paste this directly into a `README.md` file.
 
 ## 🖼️ Preview
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://github.com/roshini9825-source/dev--detective/blob/8171c738804da81e6cdc67b657f9096da702a02c/screenshot%20(2).png)
 
 
 ---
@@ -85,6 +85,7 @@ Simply open `index.html` in any browser.
 
 
 ---
+
 
 
 
